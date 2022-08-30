@@ -199,3 +199,4 @@ const my_Returner = (array1, array2) => {
 //****** MY FUNCTION FAILED */ CAN USE (...array1, array2) to join them or use concat. How to remove the duplicates?
 
 //dataArray1.concat(dataArray2.filter((item) => dataArray1.indexOf(item) < 0))
+///
